@@ -1,0 +1,33 @@
+[
+    {
+        "username": "aku",
+        "password": "aku",
+        "friends": ["iines", "hupu", "tupu", "lupu"]
+    },
+    {
+        "username": "iines",
+        "password": "iines",
+        "friends": ["aku", "hannu"]
+
+    },
+    {
+        "username": "hupu",
+        "password": "hupu",
+        "friends": ["aku", "tupu", "lupu"]
+    },
+    {
+        "username": "lupu",
+        "password": "lupu",
+        "friends": ["aku", "hupu", "tupu"]
+    },
+    {
+        "username": "tupu",
+        "password": "tupu",
+        "friends": ["aku", "hupu", "lupu"]
+    },
+    {
+        "username": "hannu",
+        "password": "hannu",
+        "friends": ["iines"]
+    }
+]

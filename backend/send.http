@@ -1,0 +1,9 @@
+POST http://localhost:3008/register HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MmUyOTVjMjQ0OWMxZmZkMWEwNDhiZDciLCJpYXQiOjE2NTk2NzgwNzAsImV4cCI6MTY1OTY4MTY3MH0.ca7vsW8KSixn3eMMtJidU_lqJYW7-iQZA-b137-CBTU
+
+
+{
+"username": "aku",
+"password": "aku"
+}
